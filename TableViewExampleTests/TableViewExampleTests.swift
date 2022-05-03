@@ -2,7 +2,7 @@
 //  TableViewExampleTests.swift
 //  TableViewExampleTests
 //
-//  Created by Sergio Andres Rodriguez Castillo on 25/04/22.
+//  Created by Minerva Sarahi Nolasco Espino on 25/04/22.
 //
 
 import XCTest
