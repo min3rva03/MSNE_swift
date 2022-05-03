@@ -2,7 +2,7 @@
 //  TableViewExampleUITests.swift
 //  TableViewExampleUITests
 //
-//  Created by Minerva Sarahi Nolasco Espino on 25/04/22.
+//  Created by Minerva Sarahi Nolasco Espino on 03/05/22.
 //
 
 import XCTest
